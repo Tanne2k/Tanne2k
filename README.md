@@ -60,7 +60,7 @@
 
 ### 📬 Kết nối với mình
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [nhattan.9a7@gmail.com](mailto:nhattan.9a7@gmail.com)
 - 💼 LinkedIn: [Link LinkedIn của bạn](#)
 - 🌐 Website cá nhân: (nếu có)
 
