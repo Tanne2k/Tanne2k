@@ -8,7 +8,7 @@
 ### 🧑‍💻 Vài dòng về mình
 
 - 🔭 Hiện mình đang là sinh viên công nghệ thông tin, đam mê lập trình và công nghệ
-- 🌱 Mình thường làm việc với **Java**, **Flutter**, **React** và một chút **Node.js**
+- 🌱 Mình thường làm việc với **C#**, **Java**, **Flutter**, **React** và một chút **Node.js**
 - 🎯 Mục tiêu: Trở thành **Fullstack Developer** chuyên nghiệp, có thể đảm nhận từ frontend đến backend
 - 🧠 Luôn học hỏi, tìm tòi cái mới, yêu thích làm sản phẩm có tính thực tế
 - 💬 Mình luôn sẵn sàng chia sẻ kiến thức và học hỏi từ cộng đồng
@@ -32,7 +32,7 @@
 
 | 💻 Tên Dự Án            | 🚀 Mô Tả                                                                 |
 |-------------------------|--------------------------------------------------------------------------|
-| 🛒 **Sneaker Store**    | Website bán giày sử dụng **Spring Boot**, **Thymeleaf**, **MySQL**. Tính năng: quản lý sản phẩm, người dùng, giỏ hàng. |
+| 🛒 **Sneaker Store**    | Website bán giày sử dụng **C#**, **Bootstrap 5**, **SQL Server**. Tính năng: quản lý sản phẩm, người dùng, giỏ hàng. |
 | 🍕 **Pizza App Flutter** | Ứng dụng giao pizza viết bằng **Flutter** + **Firebase**, có tính năng đăng nhập, chọn món, đặt hàng. |
 | 👨‍⚕️ **Dermatology Clinic** | App quản lý phòng khám da liễu: frontend bằng **React**, backend bằng **Node.js + MongoDB**. Tính năng đặt lịch, quản lý bác sĩ và bệnh nhân. |
 | 🛍 **Supermarket Manager** | Phần mềm quản lý siêu thị mini: quản lý hàng hóa, doanh thu, khách hàng, sử dụng **Java Swing**. |
