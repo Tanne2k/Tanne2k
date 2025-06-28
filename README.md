@@ -1,4 +1,4 @@
-<h1 align="center">👋 Xin chào, mình là Tân!</h1>
+<h1 align="center">👋 Hi guys, Welcomeback to ma channel. I'm Tan!</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
