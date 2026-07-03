@@ -42,10 +42,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanne2k&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanne2k&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+</p> -->
 
 ---
 
